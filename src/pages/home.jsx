@@ -1,8 +1,8 @@
-import home from "../components/home/index"
+import Home from "../components/home/index"
 
 function HomePage () {
     return (
-        <home />
+        <Home />
     )
 }
 
